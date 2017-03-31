@@ -47,17 +47,17 @@ Después de una conferencia con el product owner se obtuvieron las siguientes ac
       * Test: Si no tiene dirección entonces que no muestre nada.
     * Yo como administrador, quiero poder ingresar a la información de los pagos, para revisar si la información detallada de la compra es correcta.
       * Test: Deben listarse todas las compras que se han hecho por un usuario.
-2. Para esta misma aplicación, definida por suted en 1. Escriba los casos de uso apropiados. Recuerde identificar cuál es el Happy Path.
+2. Para esta misma aplicación, definida por usted en 1. Escriba los casos de uso apropiados. Recuerde identificar cuál es el Happy Path.
   * Lista numerada. Existe el happy path y los flujos alternativos.
   * Actores:
     * comprador
     * vendedor
-  * 1) Vendedor agrega productos.
-  * 2) Comprador busca productos.
-  * 3) Comprador lo agrega a su carro.
-  * 4) Comprador intenta pagar.
-    * 4a) El comprador no está logueado.
-      * 4a1) Se loguea, vuelve al pago
-        * 4a1a) Comprador no tiene una cuenta
-          * 4a1a1) Debe registrarse
-          * 4a2a2) Obtiene su cuenta, vuelve al pago
+  * 1 ) Vendedor agrega productos.
+  * 2 ) Comprador busca productos.
+  * 3 ) Comprador lo agrega a su carro.
+  * 4 ) Comprador intenta pagar.
+    * 4a ) El comprador no está logueado.
+      * 4a1 ) Se loguea, vuelve al pago
+        * 4a1a ) Comprador no tiene una cuenta
+          * 4a1a1 ) Debe registrarse
+          * 4a2a2 ) Obtiene su cuenta, vuelve al pago
