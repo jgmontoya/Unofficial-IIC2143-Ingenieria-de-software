@@ -2,16 +2,16 @@
 
 ### Explicar:
 1. ¿Qué es más importante, maximizar el outcome u el output? ¿Por qué?
-  * outcome: Es el impacto de la aplicación en el usuario. La experiencia del usuario. Si le sirvió o no. Es más importante.
-  * output: Es la aplicación en sí, lo que hace, lo que entrega.
+  * **outcome**: Es el impacto de la aplicación en el usuario. La experiencia del usuario. Si le sirvió o no. Es más importante.
+  * **output**: Es la aplicación en sí, lo que hace, lo que entrega.
 2. Diferencia entre modelo de cascada y uno iterativo
-  * Modelo de cascada: Desarrollar todo el programa. Es más lento. Pasos son fijos y se debe respetar el orden de los pasos a seguir, es decir no puedo hacer un paso posterior sin haber completado el actual.
-  * Modelo iterativo: Realizar una versión del programa y después volver a realizarla en una siguiente iteración.
+  * **Modelo de cascada**: Desarrollar todo el programa. Es más lento. Pasos son fijos y se debe respetar el orden de los pasos a seguir, es decir no puedo hacer un paso posterior sin haber completado el actual.
+  * **Modelo iterativo**: Realizar una versión del programa y después volver a realizarla en una siguiente iteración.
 3. ¿Qué son y en qué se diferencian los requisitos funcionales de los no funcionales?
-  * Requisitos funcionales: Tiene que ver con que queremos que haga nuestro programa. Son los features del mismo programa.
-  * Requisitos no funcionales: Más relacionados con la eficiencia del programa en sí. No es lo que el usuario pide: que sea rápido, que no se caigan las bases de datos, etc...
+  * **Requisitos funcionales**: Tiene que ver con que queremos que haga nuestro programa. Son los features del mismo programa.
+  * **Requisitos no funcionales**: Más relacionados con la eficiencia del programa en sí. No es lo que el usuario pide: que sea rápido, que no se caigan las bases de datos, etc...
 4. Las principales diferencias entre el método SCRUM y el Kanban. ¿Cuál elegiría usted y por qué?
-  *  SCRUM: Método ágil e incremental. Se conforma de distintos sprints donde se elige una cierta cantidad de features a implementar. Todos hacen todo. Si no se alcanzan a implementar features pueden quedar para el próximo sprint. Mejor si se tienen fechas límites y se puede priorizar mejor las features.
+  *  **SCRUM**: Método ágil e incremental. Se conforma de distintos sprints donde se elige una cierta cantidad de features a implementar. Todos hacen todo. Si no se alcanzan a implementar features pueden quedar para el próximo sprint. Mejor si se tienen fechas límites y se puede priorizar mejor las features.
   *  **Kanban**: Lista de tipos de features (por hacer, en progreso, hechas) cada una con un límite de features que pueden haber en cada categoría. La idea es que las features se mueven de una categoría a otra a medida que se van completando. Equipos más especializados.
 
 ### ¿Qué concepto se refiere cada sentencia o conversación?
