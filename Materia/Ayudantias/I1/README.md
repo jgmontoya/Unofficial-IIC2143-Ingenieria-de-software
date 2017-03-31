@@ -22,7 +22,7 @@
   * **Story map**: Se ve comom una "linea de tiempo" con tarjetas que representan actividades hacia el lado.
 3. "Ayer no pude avanzar mucho, pero hoy terminaré la feature 3 y 4 si o si", "Yo ayer tuve un problema pero hoy lo soluciono"
   * **Daily SCRUM**: Reunión de al rededor de 10-15 minutos que se realiza en la mañana donde participan todos los miembros del equipo de desarrollo, donde puede o no estar el product owner y donde se comenta el avance diario. Cada integrante debe decir tres cosas: Qué hizo ayer, qué piensa hacer hoy y qué obstáculos cree que pueden surgir. Normalmente frente a la tabla/pizarra para contextualizar.
-4. Etapa del SCRUM en que se reune todo el team, el SCRUMMaster y, a veces, el product owner. Se realiza al final de cada iteracion, para analizar el proceso y cómo se va llevando.
+4. Etapa del SCRUM en que se reune todo el team, el ScrumMaster y, a veces, el product owner. Se realiza al final de cada iteracion, para analizar el proceso y cómo se va llevando.
   * **Retrospective** :Se determina el rumbo del proyecto. Se revisa si se está acercando efectivamente al objetivo. Se analiza el proceso.
 5. Lider de un Scrum team
   * ScrumMaster
